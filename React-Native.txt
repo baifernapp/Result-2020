@@ -1,0 +1,30 @@
+npm install -g expo-cli
+npm instsll -g react-native-cli
+npm install -g create-react-native-app
+create-react-native-app JamesToys
+
+npm install firebase
+npm install react-native-gesture-handler
+npm install react-navigation
+npm install react-navigation-stack
+npm install react-navigation-tabs
+npm install react-navigation-tabs --save
+npm install monent
+
+npm install firebase react-native-gesture-handler react-navigation react-navigation-stack react-navigation-tabs --save
+
+สร้างโฟลเดอร์ screens
+	HomeScreen.js
+	LoadingScreen.js
+	RegisterScreen.js
+	LoginScreen.js
+	MessageScreen.js
+	ProfileScreen.js
+	PostScreen.js
+	NotificationScreen.js
+
+yarn android (เริ่มโปรแกรม)
+rm -rf node_modules and run yarn install
+watchman watch-del-all
+yarn start --reset-cache
+

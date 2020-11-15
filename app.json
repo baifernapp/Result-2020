@@ -1,0 +1,12 @@
+{
+  "name": "Fern-app",
+  "displayName": "Fern-app",
+  "expo": {
+    "name": "Fern-app",
+    "slug": "Fern-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
